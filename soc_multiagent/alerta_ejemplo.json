@@ -1,0 +1,10 @@
+{
+  "id": "ALERT-0001",
+  "source": "EDR",
+  "rule": "Ejecución de fichero sospechoso descargado de Internet",
+  "host": "PC-CONTABILIDAD-07",
+  "user": "jlopez",
+  "file_hash_sha256": "275a021bbfb6489e54d471899f7db9d1663fc695ec2fe2a2c4538aabf651fd0f",
+  "download_url": "http://malware.testing.google.test/testing/malware/",
+  "timestamp": "2026-10-06T09:15:00Z"
+}

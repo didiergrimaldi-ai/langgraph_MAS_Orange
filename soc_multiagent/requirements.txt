@@ -1,0 +1,15 @@
+streamlit>=1.57
+python-dotenv
+langchain>=1.0
+langchain-core
+langchain-openai
+langchain-community
+langchain-tavily
+langgraph
+langgraph-supervisor
+vt-py
+google-api-python-client
+google-auth
+google-auth-oauthlib
+google-auth-httplib2
+beautifulsoup4

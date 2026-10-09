@@ -1,0 +1,7 @@
+.env
+credentials.json
+credenciales_google.json
+token*.json
+venv/
+__pycache__/
+Open_AI_secret-key.txt

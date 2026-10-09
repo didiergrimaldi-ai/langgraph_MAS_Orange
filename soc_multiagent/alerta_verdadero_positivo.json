@@ -1,0 +1,12 @@
+{
+  "id": "ALERT-0002",
+  "source": "Antivirus",
+  "type": "Malware Detection",
+  "severity": "High",
+  "rule": "Fichero detectado como malicioso al descargarlo",
+  "host": "PC-RRHH-03",
+  "user": "mgarcia",
+  "file_name": "factura_octubre.exe",
+  "file_hash_sha256": "275a021bbfb6489e54d471899f7db9d1663fc695ec2fe2a2c4538aabf651fd0f",
+  "timestamp": "2026-10-06T10:02:00Z"
+}

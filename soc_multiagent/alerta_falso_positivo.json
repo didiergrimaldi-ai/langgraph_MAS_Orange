@@ -1,0 +1,11 @@
+{
+  "id": "ALERT-0003",
+  "source": "Firewall",
+  "type": "Suspicious Activity",
+  "severity": "Medium",
+  "rule": "Muchas conexiones desde una IP externa al puerto 53",
+  "host": "SRV-DNS-01",
+  "source_ip": "8.8.8.8",
+  "destination_port": 53,
+  "timestamp": "2026-10-06T10:20:00Z"
+}

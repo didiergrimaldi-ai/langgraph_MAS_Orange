@@ -1,0 +1,20 @@
+# Sesión 3 · Agentes y SOC multiagente con LangGraph
+# Instalar con:  pip install -r requirements.txt
+
+# Agentes y orquestación
+langgraph
+langgraph-supervisor        # create_supervisor (supervisor + especialistas)
+langchain                   # create_agent, init_chat_model, @tool
+langchain-classic           # AgentExecutor (1_agente_ia_langchain_simplificado.py)
+langchain-openai            # ChatOpenAI
+
+# Herramientas (integraciones)
+langchain-tavily            # TavilySearch: búsqueda web
+vt-py                       # cliente oficial de VirusTotal
+langchain-community         # GmailToolkit
+google-api-python-client    # API de Gmail
+google-auth-oauthlib
+google-auth-httplib2
+
+# Configuración
+python-dotenv               # lee el archivo .env
